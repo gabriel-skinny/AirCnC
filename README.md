@@ -4,12 +4,17 @@
 ## Tecnologias
 
 -React Native
+
 -ReactJS
+
 -NodeJS
 
 ## Funcionalidades
 
 -Login
+
 -Cadastrar um Spot
+
 -Agendar um Spot
+
 -Pop Up de confirmação em tempo real
